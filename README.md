@@ -18,8 +18,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -95,16 +93,6 @@ To run the project, execute the following command:
 ```sh
   \c vet_clinic
 ```
-
-### Run tests
-
-N/A
-
-### Deployment
-
-N/A
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
