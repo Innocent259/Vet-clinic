@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+
+
 <div align="center">
 
   <h1><b>Vet Clinic</b></h1>
@@ -23,7 +25,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
